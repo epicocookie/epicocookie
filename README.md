@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A student who messed up alot
 <!--
 **epicocookie/epicocookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
