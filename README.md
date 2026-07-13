@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:312E81&height=190&section=header&text=David%20Nguyen&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:312E81&height=190&section=header&text=David&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=Learning+by+building+real+software.;Focused+on+backend%2C+full-stack%2C+and+AI-powered+tools.)](https://git.io/typing-svg)
 
