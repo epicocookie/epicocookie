@@ -7,13 +7,7 @@
 [![HCMUT](https://img.shields.io/badge/HCMUT-Computer%20Science%20%26%20Engineering-5B21B6?style=flat-square&logo=academia&logoColor=white)](https://www.hcmut.edu.vn/)
 [![Location](https://img.shields.io/badge/Ho%20Chi%20Minh-Vietnam-4338CA?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City+Vietnam)
 
-[![GitHub](https://img.shields.io/badge/GitHub-epicocookie-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epicocookie)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Building%20in%20Public-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epicocookie?tab=repositories)
-
-![Profile Views](https://komarev.com/ghpvc/?username=epicocookie&label=Profile%20Views&color=5B21B6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/epicocookie?label=Followers&style=flat-square&color=5B21B6&logo=github)](https://github.com/epicocookie?tab=followers)
-[![Stars](https://img.shields.io/github/stars/epicocookie?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=5B21B6&logo=github)](https://github.com/epicocookie?tab=repositories)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuan-huynh-93a055380/)
 </div>
 
 ---
@@ -219,17 +213,6 @@ open_to:
   - Learning with other builders
   - Beginner-friendly open-source work
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-epicocookie-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epicocookie)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Repositories-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epicocookie?tab=repositories)
-
-</div>
 
 ---
 
