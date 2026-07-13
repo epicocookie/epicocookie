@@ -16,7 +16,7 @@
 
 I am a first-year Computer Science and Engineering student at HCMUT.
 
-I am early in the process and deliberately keeping this profile honest: I am learning **Python**, **C++**, and the fundamentals behind software engineering. I am interested in backend and full-stack development because I want to build useful products—not just finish tutorials.
+I am early in the process and trying my best to survive academically in my uni while maintaining my activities from July 2026: I am learning **Python**, **C++**, and the fundamentals behind software engineering. I am interested in backend and full-stack development because I want to build useful products—not just finish tutorials.
 
 AI/ML is an area I want to explore later through real projects. Right now, my priority is stronger programming fundamentals and shipping my first project.
 
