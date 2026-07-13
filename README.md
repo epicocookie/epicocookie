@@ -172,22 +172,7 @@ Currently building the foundation for software engineering through coursework, s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=epicocookie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=epicocookie&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub streak" />
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicocookie&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=epicocookie&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
