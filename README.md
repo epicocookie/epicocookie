@@ -165,7 +165,11 @@ Currently building the foundation for software engineering through coursework, s
 
 <div align="center">
 
-The snake animation will be added after I set up the GitHub Actions workflow that generates it.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake.svg" />
+  <img alt="David's GitHub contribution snake" src="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
