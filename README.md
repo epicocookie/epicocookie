@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:312E81&height=220&section=header&text=David&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=HCMUT%20Student%20%7C%20Learning%20Software%20Engineering&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Learning+software+engineering+by+building.;Python+%C2%B7+C%2B%2B+%C2%B7+first+project+in+progress.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Learning+software+engineering+by+building.;C%2B%2B+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+first+project+in+progress.)](https://git.io/typing-svg)
 
 [![HCMUT](https://img.shields.io/badge/HCMUT-Computer%20Science%20%26%20Engineering-5B21B6?style=flat-square&logo=academia&logoColor=white)](https://www.hcmut.edu.vn/)
 [![Location](https://img.shields.io/badge/Ho%20Chi%20Minh-Vietnam-4338CA?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City+Vietnam)
@@ -16,9 +16,13 @@
 
 I am a first-year Computer Science and Engineering student at HCMUT.
 
-I am early in the process and trying my best to survive academically in my uni while maintaining my activities from July 2026: I am learning **Python**, **C++**, and the fundamentals behind software engineering. I am interested in backend and full-stack development because I want to build useful products—not just finish tutorials.
+My strongest programming background so far is **C++**. I am currently learning the web stack from the ground up through my first real project, starting with **JavaScript and TypeScript** before moving into React.
 
-AI/ML is an area I want to explore later through real projects. Right now, my priority is stronger programming fundamentals and shipping my first project.
+Right now I am intentionally keeping the project small: I have defined the lesson data shape and built typed fake lesson data. The next step is learning enough React to render that data. Backend work comes later; I have not started Python yet.
+
+I am interested in backend and full-stack development because I want to understand how complete software systems fit together—not just finish tutorials.
+
+AI/ML is something I want to explore later through real projects. For now, the priority is programming fundamentals, understanding the tools I use, and shipping the first working frontend/backend slice.
 
 ### Open To
 
@@ -34,15 +38,18 @@ AI/ML is an area I want to explore later through real projects. Right now, my pr
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
+
+**C++:** strongest current language  
+**JavaScript / TypeScript:** actively learning
 
 ### Frontend
 
-Learning next.
+React is next. Currently learning the fundamentals needed to build the first renderer without copying code blindly.
 
 ### Backend & Databases
 
-Learning next.
+Not started yet. FastAPI + Python are planned after the static React renderer works.
 
 ### Cloud, DevOps & Tooling
 
@@ -56,9 +63,9 @@ Learning next.
 
 | Domain | Current Level | Details |
 |:---|:---:|:---|
-| AI/ML Fundamentals | Not started yet | Interested in learning the foundations after building stronger programming skills |
+| AI/ML Fundamentals | Not started yet | Interested in learning the foundations after building stronger software fundamentals |
 | LLM Applications | Exploring ideas | Interested in practical learning tools, not claiming expertise |
-| Data & Automation | Learning | Python is the starting point |
+| Data & Automation | Not started yet | Planned for later once the current project reaches the backend stage |
 | Responsible Product Design | Learning | Thinking about usefulness before adding AI for hype |
 
 ---
@@ -66,22 +73,26 @@ Learning next.
 ## Featured Projects
 
 <details>
-<summary><b>Local Interactive Study Generator</b> — first project, currently being scoped</summary>
+<summary><b>Local Interactive Study Generator</b> — first serious project, in progress</summary>
 
 <br>
 
-A local-first study tool idea: turn a topic, quiz, or source material into interactive practice. It is not built yet; this will be my first serious project.
+A local-first study tool for turning structured lesson content into interactive practice.
+
+Current progress is deliberately small and real: the TypeScript data contracts and fake lesson data exist. The next milestone is rendering that fake lesson in React. After that, the plan is to build a minimal FastAPI backend and connect the two.
 
 | Metric | Current Reality |
 |:---|:---|
-| **Stack** | Still being chosen; likely Python first |
+| **Current stack** | C++ background; learning JavaScript + TypeScript |
+| **Frontend** | Typed fake lesson data complete; React renderer next |
+| **Backend** | Not started yet; FastAPI/Python planned later |
 | **Scale** | Personal learning project |
 | **Performance** | No benchmarks yet |
 | **Security** | No implementation yet |
 | **Impact** | Goal: make active study setup less manual |
-| **Repository** | [Will be published here](https://github.com/epicocookie?tab=repositories) |
+| **Repository** | [lesson-renderer](https://github.com/epicocookie/lesson-renderer) |
 
-The goal is to learn by making real engineering decisions—start small, ship an MVP, then improve it based on what breaks.
+The goal is to learn each dependency as the project requires it instead of hiding gaps behind copied code.
 
 </details>
 
@@ -113,13 +124,14 @@ I am not padding this section with fake portfolio projects. Future projects will
 
 Currently building the foundation for software engineering through coursework, self-study, and hands-on programming practice.
 
-- Learning Python and strengthening C++ fundamentals
+- Using C++ as my strongest current programming foundation
+- Learning JavaScript and TypeScript through a real frontend project
 - Practicing logical thinking, algorithms, and problem solving
-- Planning and scoping a first software project
-- Keeping learning work public as it becomes worth sharing
+- Building the first project incrementally instead of claiming tools before I have used them
 
-[![Python](https://img.shields.io/badge/Python-Learning-4C1D95?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-Learning-5B21B6?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-Primary-5B21B6?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Learning-4C1D95?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Learning-4338CA?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Git](https://img.shields.io/badge/Git-Learning-312E81?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
@@ -132,7 +144,7 @@ Currently building the foundation for software engineering through coursework, s
 |:---|:---|
 | Starting honestly | Building a public record of work from the beginning |
 | Academic path | Computer Science and Engineering student at HCMUT |
-| Current milestone | Moving from learning concepts to shipping a first project |
+| Current milestone | Moving from typed fake data toward a first React renderer |
 
 </div>
 
@@ -179,17 +191,18 @@ Currently building the foundation for software engineering through coursework, s
 
 ```yaml
 learning:
-  - Python
-  - C++
-  - Software engineering fundamentals
+  - JavaScript fundamentals
+  - TypeScript data modeling
+  - React next
 
 building:
-  - My first serious project
-  - A local interactive study-generator MVP
+  - Local interactive study generator
+  - Current stage: typed fake lesson data -> React renderer
 
-exploring:
-  - Backend development
-  - Full-stack development
+later:
+  - Python
+  - FastAPI backend
+  - Connecting frontend to backend
   - Practical AI tools
 
 open_to:
