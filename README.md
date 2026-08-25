@@ -41,7 +41,7 @@ AI/ML is something I want to explore later through real projects. For now, the p
 [![Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
 
 **C++:** learning / refreshing fundamentals and OOP  
-**JavaScript / TypeScript:** actively learning
+**JavaScript / TypeScript:** learning
 
 ### Frontend
 
