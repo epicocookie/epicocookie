@@ -20,7 +20,7 @@ I have studied **C++** before and am currently touching up on fundamentals and O
 
 Right now I am intentionally keeping the project small: I have defined the lesson data shape and built typed fake lesson data. The next step is learning enough React to render that data. Backend work comes later; I have not started Python yet.
 
-I am interested in backend and full-stack development because I want to understand how complete software systems fit together—not just finish tutorials.
+I am interested in backend and full-stack development because I want to understand how complete software systems fit together-not just finish tutorials.
 
 AI/ML is something I want to explore later through real projects. For now, the priority is programming fundamentals, understanding the tools I use, and shipping the first working frontend/backend slice.
 
