@@ -43,14 +43,6 @@ AI/ML is something I want to explore later through real projects. For now, the p
 **C++:** learning / refreshing fundamentals and OOP  
 **JavaScript / TypeScript:** learning
 
-### Frontend
-
-React is next. Currently learning the fundamentals needed to build the first renderer without copying code blindly.
-
-### Backend & Databases
-
-Not started yet. FastAPI + Python are planned after the static React renderer works.
-
 ### Cloud, DevOps & Tooling
 
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
