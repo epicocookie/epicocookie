@@ -16,7 +16,7 @@
 
 I am a first-year Computer Science and Engineering student at HCMUT.
 
-My strongest programming background so far is **C++**. I am currently learning the web stack from the ground up through my first real project, starting with **JavaScript and TypeScript** before moving into React.
+I have studied **C++** before and am currently touching up on fundamentals and OOP. At the same time, I am learning the web stack from the ground up through my first real project, starting with **JavaScript and TypeScript** before moving into React.
 
 Right now I am intentionally keeping the project small: I have defined the lesson data shape and built typed fake lesson data. The next step is learning enough React to render that data. Backend work comes later; I have not started Python yet.
 
@@ -40,7 +40,7 @@ AI/ML is something I want to explore later through real projects. For now, the p
 
 [![Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
 
-**C++:** strongest current language  
+**C++:** learning / refreshing fundamentals and OOP  
 **JavaScript / TypeScript:** actively learning
 
 ### Frontend
@@ -83,7 +83,7 @@ Current progress is deliberately small and real: the TypeScript data contracts a
 
 | Metric | Current Reality |
 |:---|:---|
-| **Current stack** | C++ background; learning JavaScript + TypeScript |
+| **Current stack** | Learning C++, JavaScript, and TypeScript |
 | **Frontend** | Typed fake lesson data complete; React renderer next |
 | **Backend** | Not started yet; FastAPI/Python planned later |
 | **Scale** | Personal learning project |
@@ -124,12 +124,12 @@ I am not padding this section with fake portfolio projects. Future projects will
 
 Currently building the foundation for software engineering through coursework, self-study, and hands-on programming practice.
 
-- Using C++ as my strongest current programming foundation
+- Reviewing C++ fundamentals and OOP
 - Learning JavaScript and TypeScript through a real frontend project
 - Practicing logical thinking, algorithms, and problem solving
 - Building the first project incrementally instead of claiming tools before I have used them
 
-[![C++](https://img.shields.io/badge/C%2B%2B-Primary-5B21B6?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-Learning-5B21B6?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Learning-4C1D95?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Learning-4338CA?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Git](https://img.shields.io/badge/Git-Learning-312E81?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -191,6 +191,7 @@ Currently building the foundation for software engineering through coursework, s
 
 ```yaml
 learning:
+  - C++ fundamentals and OOP refresh
   - JavaScript fundamentals
   - TypeScript data modeling
   - React next
