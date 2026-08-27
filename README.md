@@ -207,7 +207,7 @@ open_to:
 
 <div align="center">
 
-> “Start where you are. Build what you can prove.”
+> “Luck doesn’t exist just anywhere. It only comes to those who put themselves in its path.”
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:312E81&height=110&section=footer)
 
