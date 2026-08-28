@@ -18,7 +18,7 @@ I am a first-year Computer Science and Engineering student at HCMUT with a stron
 
 My current work is focused on strengthening programming fundamentals and building small projects that force me to understand the tools I use instead of hiding gaps behind copied code.
 
-I have prior experience with C++ fundamentals and OOP, and I am currently using JavaScript and TypeScript in a small frontend project.
+Most of my programming foundation is currently in C++. I am learning data structures and algorithms, while my object-oriented programming knowledge is still limited and incomplete. JavaScript and TypeScript are much newer for me; my current exposure is at a very basic syntax-and-data-modeling level rather than algorithms or deeper application development.
 
 I am especially interested in backend and full-stack development because I want to understand how complete software systems fit together.
 
@@ -37,6 +37,14 @@ I am especially interested in backend and full-stack development because I want 
 ### Languages
 
 [![Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
+
+</div>
+
+- **C++:** current main language; learning DSA, with limited OOP exposure
+- **JavaScript:** very early beginner; basic syntax only
+- **TypeScript:** very early beginner; basic syntax, interfaces, and typed mock data
+
+<div align="center">
 
 ### Tooling
 
@@ -76,8 +84,9 @@ The repository currently contains the lesson data model and typed lesson structu
 
 Building a foundation for software engineering through coursework, self-study, and hands-on programming practice.
 
-- Working with C++ fundamentals and OOP
-- Using JavaScript and TypeScript in a small frontend project
+- Learning data structures and algorithms in C++
+- Building only a limited foundation in OOP so far
+- Using very basic JavaScript and TypeScript syntax in a small frontend project
 - Practicing algorithms, logical reasoning, and problem solving
 - Building projects incrementally and keeping public claims tied to implemented work
 
