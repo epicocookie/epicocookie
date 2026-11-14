@@ -14,13 +14,9 @@
 
 ## About
 
-I am a first-year Computer Science and Engineering student at HCMUT with a strong interest in software engineering.
+I'm a Computer Science student at HCMUT, focused on programming fundamentals, data structures, and building practical software.
 
-My current work is focused on strengthening programming fundamentals and building small projects that force me to understand the tools I use instead of hiding gaps behind copied code.
-
-Most of my programming foundation is currently in C++. I am learning data structures and algorithms, while my object-oriented programming knowledge is still limited and incomplete. JavaScript and TypeScript are much newer for me; my current exposure is at a very basic syntax-and-data-modeling level rather than algorithms or deeper application development.
-
-I am especially interested in backend and full-stack development because I want to understand how complete software systems fit together.
+C++ is my main language so far. I'm also exploring JavaScript, TypeScript, and backend development. I prefer understanding how things work over collecting tools I can't explain.
 
 ### Open To
 
@@ -40,9 +36,8 @@ I am especially interested in backend and full-stack development because I want 
 
 </div>
 
-- **C++:** current main language; learning DSA, with limited OOP exposure
-- **JavaScript:** very early beginner; basic syntax only
-- **TypeScript:** very early beginner; basic syntax, interfaces, and typed mock data
+- **C++:** primary language; currently learning DSA and OOP
+- **JavaScript / TypeScript:** beginner-level syntax and data modeling
 
 <div align="center">
 
@@ -76,22 +71,6 @@ The repository currently contains the lesson data model and typed lesson structu
 
 ---
 
-## Experience
-
-### Computer Science Student — HCMUT
-
-**2025 — Present**
-
-Building a foundation for software engineering through coursework, self-study, and hands-on programming practice.
-
-- Learning data structures and algorithms in C++
-- Building only a limited foundation in OOP so far
-- Using very basic JavaScript and TypeScript syntax in a small frontend project
-- Practicing algorithms, logical reasoning, and problem solving
-- Building projects incrementally and keeping public claims tied to implemented work
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -102,15 +81,11 @@ Building a foundation for software engineering through coursework, self-study, a
 
 ---
 
-## Contribution Snake
+## Contribution Koi 🐟
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake.svg" />
-  <img alt="David's GitHub contribution snake" src="https://raw.githubusercontent.com/epicocookie/epicocookie/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="koi/koi.gif" width="256" alt="An animated koi that grows with my GitHub activity" />
 
 </div>
 
