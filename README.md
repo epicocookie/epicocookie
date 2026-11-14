@@ -49,52 +49,10 @@ C++ is my main language so far. I'm also exploring JavaScript, TypeScript, and b
 
 ---
 
-## Featured Project
-
-<details>
-<summary><b>Local Interactive Study Generator</b></summary>
-
-<br>
-
-A local-first study tool for turning structured lesson content into interactive practice.
-
-The repository currently contains the lesson data model and typed lesson structures used by the project.
-
-| Area | Current Reality |
-|:---|:---|
-| **Language work** | C++, JavaScript, TypeScript |
-| **Data model** | Typed lesson structures implemented |
-| **Scale** | Personal project |
-| **Repository** | [lesson-renderer](https://github.com/epicocookie/lesson-renderer) |
-
-</details>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=epicocookie&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true)](https://github.com/epicocookie)
-
-</div>
-
----
-
 ## Contribution Koi 🐟
 
 <div align="center">
 
-<img src="koi/koi.gif" width="256" alt="An animated koi that grows with my GitHub activity" />
-
-</div>
-
----
-
-<div align="center">
-
-> “Luck doesn’t exist just anywhere. It only comes to those who put themselves in its path.”
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:312E81&height=110&section=footer)
+<img src="koi/koi.gif" width="256" alt="Animated koi based on my GitHub activity" />
 
 </div>
