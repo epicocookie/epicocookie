@@ -34,10 +34,11 @@ jobs:
           git commit --quiet --message "koi: draw the day's koi"
           # another commit might have landed while the fish was rendering
           for attempt in 1 2 3; do
-            git pull --rebase origin main
-            if git push origin HEAD:main; then
+            if git pull --rebase origin main && git push origin HEAD:main; then
               exit 0
             fi
+            git rebase --abort || true
+            echo "Retrying koi publish (attempt $attempt/3)..." >&2
           done
           echo "Failed to publish koi after three attempts" >&2
           exit 1
